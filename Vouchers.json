@@ -1,0 +1,6 @@
+{
+  "Daily": ["DL-ABC001", "DL-ABC002"],
+  "Weekly": ["WK-ABC001", "WK-ABC002"],
+  "Bi-weekly": ["BW-ABC001"],
+  "Monthly": ["MN-ABC001"]
+}
